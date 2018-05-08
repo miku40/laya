@@ -2,6 +2,7 @@ import test = ui.test.TestPageUI;
 import Label = Laya.Label;
 import Handler = Laya.Handler;
 import Loader = Laya.Loader;
+import websocket = util.Socket;
 
 class Sprite_DisplayImage{
     
